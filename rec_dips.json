@@ -1,0 +1,1351 @@
+[{
+  "_id": {
+    "$oid": "629289dcec63470861588a0f"
+  },
+  "status": "brea",
+  "name": "Сырники из творога с мукой на сковороде на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/a7/ec/39379/syrniki-iz-tvoroga-s-mukoi-na-skovorode_1613501082_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/39379-syrniki-iz-tvoroga-s-mukoi-na-skovorode",
+  "ingredient": "Творог,Яйца,Сахар,Соль,Ванильный сахар,Пшеничная мука,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a0e"
+  },
+  "status": "brea",
+  "name": "Кабачки тушеные в сметане на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/da/79/3872/kabachki-tushenye-v-smetane_1618467059_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/3872-kabachki-tushenje-v-smetane",
+  "ingredient": "Кабачки,Сметана,Оливковое масло,Соль,Перец черный молотый,Чеснок",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a10"
+  },
+  "status": "brea",
+  "name": "Лаваш с яйцом на сковороде на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/52/f0/4235/lavash-s-yaicom-na-skovorode_1574234887_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/4235-lavash-jarenyi-s-yaicom",
+  "ingredient": "Лаваш тонкий,Яйца,Сливочное масло,Вода,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a11"
+  },
+  "status": "brea",
+  "name": "Ленивые хачапури с сыром на сковороде на кефире на завтрак",
+  "pic": "https://static.1000.menu/img/content/33835/lenivye-xachapuri-s-syrom-na-skovorode_1554511560_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/33835-lenivye-xachapuri-s-syrom-na-skovorode-na-kefire",
+  "ingredient": "Мука,Кефир,Яйца,Сливочное масло,Сыр любой",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a12"
+  },
+  "status": "brea",
+  "name": "Кабачки в муке на сковороде на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/3e/56/35696/kabachki-v-muke-na-skovorode_1621844203_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/35696-kabachki-v-muke-na-skovorode",
+  "ingredient": "Кабачки,Петрушка,Растительное масло,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a13"
+  },
+  "status": "brea",
+  "name": "Блины на кефире с кипятком тонкие на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/ee/62/7120/bliny-na-kefire-s-kipyatkom-tonkie_1581794195_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/7120-bliny-obychnye",
+  "ingredient": "Яйца,Сахар,Кефир,Вода,Растительное масло,Мука,Соль,Сода пищевая",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a14"
+  },
+  "status": "brea",
+  "name": "Блины на молоке тонкие с дырочками на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/47/74/56832/bliny-na-moloke-tonkie-s-dyrochkami_1627040810_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/56832-bliny-na-moloke-tonkie-s-dyrochkami",
+  "ingredient": "Молоко,Яйца,Мука,Сахар,Растительное масло,Сода пищевая,Уксус,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a15"
+  },
+  "status": "brea",
+  "name": "Сыр в кляре на сковороде на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/a7/57/18376/syr-v-klyare-na-skovorode_1617694904_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/18376-syr-v-klyare-na-skovorode",
+  "ingredient": "Твёрдый сыр,Молоко,Мука,Яйца,Панировочные сухари,Соль,Перец черный молотый",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a16"
+  },
+  "status": "brea",
+  "name": "Панкейки на кефире пышные на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/26/03/13358/pankeiki-na-kefire-pyshnye_1614250015_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/13358-pankeiki-na-kefire-pyshnye",
+  "ingredient": "Кефир,Яйца,Мука,Сахар,Сливочное масло,Сода пищевая,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a18"
+  },
+  "status": "brea",
+  "name": "Бекон с сыром в духовке на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/84/a0/40747/bekon-s-syrom-v-duxovke_1613051323_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/40747-bekon-s-syrom-v-duxovke",
+  "ingredient": "Бекон,Брынза,Пармезан,Плавленый сыр,Укроп,Чеснок",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a17"
+  },
+  "status": "brea",
+  "name": "Завтрак из лаваша на сковороде с начинкой из яиц и сыра",
+  "pic": "https://static.1000.menu/img/content-v2/e7/70/34860/zavtrak-iz-lavasha-na-skovorode-s-nachinkoi-iz-yaic-i-syra_1613713536_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/34860-zavtrak-iz-lavasha-s-nachinkoi-na-skovorode",
+  "ingredient": "Лаваш тонкий,Яйца,Болгарский перец,Укроп,Зелень кинзы,Петрушка,Растительное масло,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a19"
+  },
+  "status": "brea",
+  "name": "Омлет в духовке пышный на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/7f/b0/26847/omlet-v-duxovke-pyshnyi-kak-v-detskom-sadu_1613748373_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/26847-pyshnyi-omlet-s-molokom-v-duxovke",
+  "ingredient": "Яйца,Молоко,Сливочное масло,Растительное масло,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a1a"
+  },
+  "status": "brea",
+  "name": "Яичница-глазунья на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/a9/dd/52657/yaichnica-glazunya_1611857412_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/52657-yaichnica-glazunya",
+  "ingredient": "Яйца,Сливочное масло,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a1b"
+  },
+  "status": "brea",
+  "name": "Как правильно варить кофе в турке на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/4c/5f/18113/kak-pravilno-varit-kofe-v-turke_1590055751_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/18113-kak-pravilno-varit-kofe-v-turke",
+  "ingredient": "Кофе молотый,Вода,Коричневый сахар,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a1d"
+  },
+  "status": "brea",
+  "name": "Омлет с кабачками и помидорами на сковороде на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/4d/bd/57305/omlet-s-kabachkami-i-pomidorami-na-skovorode_1628061143_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/57305-omlet-s-kabachkami-i-pomidorami-na-skovorode",
+  "ingredient": "Кабачки,Помидоры,Яйца,Чеснок,Петрушка,Растительное масло,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a1e"
+  },
+  "status": "brea",
+  "name": "Треугольники из лаваша с ветчиной и сыром на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/97/e6/40973/treugolniki-iz-lavasha-s-vetchinoi-i-syrom-na-skovorode_1616057825_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/40973-treugolniki-iz-lavasha-s-syrom-na-skovorode",
+  "ingredient": "Лаваш тонкий,Твёрдый сыр,Ветчина,Яйца,Соль,Смесь перцев молотых,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a1c"
+  },
+  "status": "brea",
+  "name": "Салат из капусты с зеленым горошком на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/30/ef/25088/salat-iz-kapusty-s-zelenym-goroshkom_1614281684_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/25088-salat-s-kapustoi-ogurcami-zelenym-goroshkom",
+  "ingredient": "Капуста белокочанная,Огурцы,Зелёный горошек,Помидоры,Оливковое масло,Лимонный сок,Соль,Зелень",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a1f"
+  },
+  "status": "brea",
+  "name": "Классическая запеканка из творога на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/92/26/28768/klassicheskaya-zapekanka-iz-tvoroga-v-duxovke_1637897545_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/28768-klassicheskaya-zapekanka-iz-tvoroga-v-duxovke",
+  "ingredient": "Творог,Яйца,Сахар,Мука,Лимонная цедра,Сметана,Изюм,Разрыхлитель,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a20"
+  },
+  "status": "brea",
+  "name": "Пюре из цветной капусты на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/df/d3/14234/pure-iz-cvetnoi-kapusty_1592825896_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/14234-pure-iz-cvetnoi-kapusty",
+  "ingredient": "Цветная капуста,Вода,Соль,Сливочное масло,Мускатный орех,Сливки",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a21"
+  },
+  "status": "brea",
+  "name": "Пицца на сковороде на сметане и майонезе на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/53/2b/20261/picca-na-skovorode-za-10-minut-na-smetane-i-maioneze_1615893481_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/20261-picca-na-skovorode-za-10-minut-na-smetane",
+  "ingredient": "Мука,Сметана,Майонез,Яйца,Колбаса,Сыр,Маслины,Болгарский перец,Помидоры,Перец чили,Базилик,Кетчуп,Майонез,Паприка,Хмели-сунели,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a22"
+  },
+  "status": "brea",
+  "name": "Кабачки жареные с яйцом на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/1c/ef/518/kabachki-jarenye-s-yaicom_1621329255_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/518-kabachki-jarenye-s-yaicom",
+  "ingredient": "Молодые кабачки,Яйца,Растительное масло,Чеснок,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a23"
+  },
+  "status": "brea",
+  "name": "Оладьи из кабачков с манкой на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/ce/c5/3878/oladi-iz-kabachkov-s-mankoi_1621410764_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/3878-oladi-iz-kabachkov-s-mankoi",
+  "ingredient": "Кабачки,Яйца,Манка,Растительное масло,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a24"
+  },
+  "status": "brea",
+  "name": "Шпинат с яйцом на сковороде на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/8f/ed/59771/shpinat-s-yaicom-na-skovorode_1635837192_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/59771-shpinat-s-yaicom-na-skovorode",
+  "ingredient": "Яйца,Шпинат,Лук,Растительное масло,Соль,Перец черный молотый",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a25"
+  },
+  "status": "brea",
+  "name": "Оладьи на кефире без дрожжей пышные на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/61/2d/17450/oladi-na-kefire-bez-drojjei-pyshnye_1614589924_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/17450-oladi-na-kefire-bez-drojjei-pyshnye",
+  "ingredient": "Кефир,Яйца,Сахар,Растительное масло,Сода пищевая,Мука,Ванилин",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a26"
+  },
+  "status": "brea",
+  "name": "Сырники из творога без муки на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/23/15/5150/syrniki-iz-tvoroga-bez-muki_1607112258_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/5150-syrniki-bez-muki-iz-tvoroga",
+  "ingredient": "Творог,Яйца,Сахар,Ванильный сахар,Манка",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a27"
+  },
+  "status": "brea",
+  "name": "Кефир с огурцом и зеленью для похудения на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/f8/fb/787/kefir-s-ogurcom-i-zelenu-dlya-poxudeniya_1628314108_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/787-xolodnyi-sup-iz-zeleni-s-ogurcami-na-kefire-dlya-poxudeniya",
+  "ingredient": "Кефир,Огурцы,Укроп,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a28"
+  },
+  "status": "brea",
+  "name": "Оладьи на кефире на сковороде пышные на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/2b/2d/59956/oladi-na-kefire-na-skovorode-pyshnye_1635838065_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/59956-oladi-na-kefire-na-skovorode-pyshnye",
+  "ingredient": "Кефир,Яйца,Сахар,Мука,Сода пищевая,Соль,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a29"
+  },
+  "status": "brea",
+  "name": "Вареники на пару на кефире с творогом на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/f3/d2/13852/vareniki-na-paru-na-kefire-s-tvorogom_1610805557_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/13852-vareniki-na-paru-na-kefire",
+  "ingredient": "Мука,Кефир,Яйца,Сода пищевая,Соль,Творог,Сахар,Ванильный сахар",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a2a"
+  },
+  "status": "brea",
+  "name": "Лаваш с яйцом и сыром на сковороде на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/cc/85/37467/lavash-s-yaicom-i-syrom-na-skovorode_1616394310_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/37467-lavash-s-yaicom-i-syrom-na-skovorode",
+  "ingredient": "Лаваш тонкий,Яйца,Твёрдый сыр,Растительное масло,Зелень,Соль,Смесь перцев молотых",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a2b"
+  },
+  "status": "brea",
+  "name": "Кофе с корицей в турке на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/33/cb/4103/kofe-s-koricei-v-turke_1607353409_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/4103-kofe-s-koricei",
+  "ingredient": "Вода,Кофе,Молотая корица,Сахар",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a2c"
+  },
+  "status": "brea",
+  "name": "Запеканка с макаронами и сыром в духовке на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/0a/85/28037/zapekanka-s-makaronami-i-syrom-v-duxovke_1617877156_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/28037-zapekanka-s-makaronami-i-syrom-v-duxovke",
+  "ingredient": "Макароны,Твёрдый сыр,Куриные яйца,Молоко,Соль,Перец черный молотый,Растительное масло,Сливочное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a2d"
+  },
+  "status": "brea",
+  "name": "Блины из рисовой муки на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/47/df/30723/risovye-blinchiki_1617780257_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/30723-risovye-blinchiki",
+  "ingredient": "Рисовая мука,Куриные яйца,Молоко,Растительное масло,Сахар,Соль,Ванилин",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a2e"
+  },
+  "status": "brea",
+  "name": "Бутерброды с помидорами и сыром на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/c8/46/58752/buterbrody-s-pomidorami-i-syrom_1631866469_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/58752-buterbrody-s-pomidorami-i-syrom",
+  "ingredient": "Батон,Помидоры,Твёрдый сыр,Чеснок,Майонез",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a2f"
+  },
+  "status": "brea",
+  "name": "Сырники с бананом и творогом на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/33/6f/886/sjrniki-s-bananom_1615970100_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/886-sjrniki-s-bananom",
+  "ingredient": "Творог,Яйца,Сахар,Бананы,Манка,Сода пищевая,Растительное масло,Мука",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a30"
+  },
+  "status": "brea",
+  "name": "Лаваш с грибами на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/0c/c5/4231/lavash-s-gribami_1615385049_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/4231-lavash-s-gribami",
+  "ingredient": "Шампиньоны,Лук репчатый,Лаваш тонкий,Плавленый сыр,Майонез,Соль,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a32"
+  },
+  "status": "brea",
+  "name": "Салат из свежих огурцов и яиц на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/3e/2c/35433/salat-iz-svejix-ogurcov-i-yaic1_1630994238_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/35433-salat-iz-svejix-ogurcov-i-yaic",
+  "ingredient": "Огурцы,Куриные яйца,Зелёный лук,Зелень,Майонез,Сметана,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a31"
+  },
+  "status": "brea",
+  "name": "Блины из прокисшего молока тонкие на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/a2/cf/29242/bliny-iz-prokisshego-moloka-tonkie_1612560757_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/29242-bliny-iz-prokisshego-moloka",
+  "ingredient": "Пшеничная мука,Кислое молоко,Сахар,Соль,Сода пищевая,Куриные яйца,Растительное масло,Вода",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a33"
+  },
+  "status": "brea",
+  "name": "Лаваш колбаса сыр яйцо на сковороде на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/1a/2a/42131/lavash-kolbasa-syr-yaico-na-skovorode1_1624445422_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/42131-zakuska-v-lavashe-s-kolbasoi-syrom-i-yaicami",
+  "ingredient": "Лаваш тонкий,Колбаса полукопченая,Твёрдый сыр,Яйца,Сметана,Зелень,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a34"
+  },
+  "status": "brea",
+  "name": "Лаваш с колбасой и яйцом на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/22/23/38629/lavash-s-kolbasoi-i-yaicom1_1628162616_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/38629-lavash-s-kolbasoi-i-yaicom",
+  "ingredient": "Лаваш тонкий,Вареная колбаса,Куриные яйца,Растительное масло,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a35"
+  },
+  "status": "brea",
+  "name": "Простая манка на воде на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/42/e8/22901/prostaya-manka-na-vode_1617171482_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/22901-mannaya-kasha-na-vode-jidkaya",
+  "ingredient": "Манка,Вода,Сахар,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a36"
+  },
+  "status": "brea",
+  "name": "Авокадо на завтрак",
+  "pic": "https://static.1000.menu/img/content/34746/avokado-na-zavtrak_1557228520_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/34746-avokado-na-zavtrak",
+  "ingredient": "Авокадо,Перепелиные яйца,Лимонный сок,Соль,Перец",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a37"
+  },
+  "status": "brea",
+  "name": "Пицца с фаршем в духовке на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/71/ab/41043/picca-s-farshem-v-duxovke_1615882482_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/41043-picca-s-farshem-v-duxovke",
+  "ingredient": "Мука,Вода,Сухие дрожжи,Оливковое масло,Соль,Сахар,Фарш,Лук,Томатная паста,Помидоры,Сыр,Растительное масло,Соль,Специи",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a38"
+  },
+  "status": "brea",
+  "name": "Жареный сыр сулугуни в панировке на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/d1/ab/42301/jarenyi-syr-suluguni-na-skovorode-v-panirovke_1617616750_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/42301-jarenyi-syr-suluguni-na-skovorode-v-panirovke",
+  "ingredient": "Рассольный сыр,Яйца,Панировочные сухари,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a39"
+  },
+  "status": "brea",
+  "name": "Фруктовый смузи в блендере на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/cb/1d/58130/fruktovyi-smuzi-v-blendere_1630060741_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/58130-fruktovyi-smuzi-v-blendere",
+  "ingredient": "Кефир,Бананы,Фрукты",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629289dcec63470861588a3a"
+  },
+  "status": "brea",
+  "name": "Горячие бутерброды с помидорами колбасой сыром на завтрак",
+  "pic": "https://static.1000.menu/img/content-v2/71/fc/11807/goryachie-buterbrody-s-pomidorami-kolbasoi-i-syrom-v-duxovke_1621919821_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/11807-goryachie-buterbrody-na-skoruu-ruku",
+  "ingredient": "Батон,Помидоры,Колбаса и колбасные изделия,Твёрдый сыр,Кетчуп",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92033f"
+  },
+  "status": "lunch",
+  "name": "Классическая окрошка с колбасой",
+  "pic": "https://static.1000.menu/img/content-v2/ae/d2/323/klassicheskaya-okroshka-s-kolbasoi_1614240993_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/323-klassicheskaya-okroshka-s-kolbasoi",
+  "ingredient": "Картошка,Яйца,Вареная колбаса,Огурцы,Зелёный лук,Укроп,Квас,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920340"
+  },
+  "status": "lunch",
+  "name": "Холодный борщ классический с вареной свеклой и ботвой",
+  "pic": "https://static.1000.menu/img/content-v2/38/a5/21029/xolodnyi-borshch-klassicheskii-s-varenoi-svekloi-i-botvoi_1651134643_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/21029-xolodnyi-borshch-klassicheskii-s-varenoi-svekloi-i-botvoi",
+  "ingredient": "Вода,Свекла,Картошка,Огурцы,Яйца,Лимоны,Укроп,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920341"
+  },
+  "status": "lunch",
+  "name": "Свекольник на кефире классический холодный суп",
+  "pic": "https://static.1000.menu/img/content-v2/7c/84/1345/svekolnik-na-kefire-klassicheskii-xolodnyi-sup_1587473736_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/1345-svekolnik-na-kefire-klassicheskii-xolodnyi-sup",
+  "ingredient": "Свекла,Огурцы,Яйца,Укроп,Петрушка,Кефир,Горчица,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920342"
+  },
+  "status": "lunch",
+  "name": "Классическая окрошка на квасе с колбасой на первое",
+  "pic": "https://static.1000.menu/img/content-v2/27/cd/22527/klassicheskaya-okroshka-na-kvase-s-kolbasoi_1616480941_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/22527-klassicheskaya-okroshka-na-kvase",
+  "ingredient": "Колбаса и колбасные изделия,Картошка,Огурцы,Яйца,Редис,Зелёный лук,Укроп,Сметана,Квас,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920343"
+  },
+  "status": "lunch",
+  "name": "Рассольник из свежих огурцов с перловкой",
+  "pic": "https://static.1000.menu/img/content-v2/ff/88/18452/rassolnik-iz-svejix-ogurcov-s-perlovkoi_1588236093_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/18452-rassolnik-iz-svejix-ogurcov-s-perlovkoi",
+  "ingredient": "Перловка,Картошка,Лук,Морковь,Помидоры,Огурцы,Растительное масло,Зелень,Вода,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920344"
+  },
+  "status": "lunch",
+  "name": "Щи из щавеля с яйцом",
+  "pic": "https://static.1000.menu/img/content-v2/e9/37/43061/shchi-iz-shchavelya-s-yaicom_1603719669_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/43061-shchi-iz-shchavelya-s-yaicom",
+  "ingredient": "Говядина,Вода,Лук,Морковь,Картошка,Яйца,Щавель,Соль,Специи сухие,Растительное масло,Лавровый лист",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920345"
+  },
+  "status": "lunch",
+  "name": "Холодник из свеклы",
+  "pic": "https://static.1000.menu/img/content-v2/8f/05/26288/xolodnik-iz-svekly_1621434949_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/26288-xolodnik-iz-svekly",
+  "ingredient": "Свекла,Вода,Редька белая,Огурцы,Куриные яйца,Зелень,Лимонный сок,Сметана",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920346"
+  },
+  "status": "lunch",
+  "name": "Рассольник классический с перловкой и солеными огурцами",
+  "pic": "https://static.1000.menu/img/content/33395/rassolnik-s-perlovkoi-klassicheskii_1552975760_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/33395-rassolnik-s-perlovkoi-klassicheskii",
+  "ingredient": "Перловка,Соленые огурцы,Морковь,Лук,Чеснок,Стебель сельдерея,Картошка,Бульон,Томатная паста,Соль,Перец,Зелень",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920347"
+  },
+  "status": "lunch",
+  "name": "Солянка классическая с картошкой и колбасой",
+  "pic": "https://static.1000.menu/img/content-v2/08/52/13122/solyanka-klassicheskaya-s-kartoshkoi-i-kolbasoi_1587229826_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/13122-myasnaya-sbornaya-solyanka-s-kartoshkoj",
+  "ingredient": "Вода,Говядина,Картошка,Копченая колбаса,Вареная колбаса,Соленые огурцы,Лук,Морковь,Томатная паста,Растительное масло,Лавровый лист,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920348"
+  },
+  "status": "lunch",
+  "name": "Шурпа в казане на костре из говядины",
+  "pic": "https://static.1000.menu/img/content/9926/shurpa-na-kostre_1552071450_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/9926-shurpa-na-kostre",
+  "ingredient": "Говядина,Морковь,Лук,Болгарский перец,Помидоры,Картошка,Вода,Чеснок,Специи сухие",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920349"
+  },
+  "status": "lunch",
+  "name": "Гаспачо суп классический",
+  "pic": "https://static.1000.menu/img/content-v2/3f/3f/15886/gaspacho-sup-klassicheskii_1589864568_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/15886-gaspacho",
+  "ingredient": "Помидоры,Вода,Оливковое масло,Огурцы,Болгарский перец,Чеснок,Лук,Яблочный уксус,Петрушка,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92034a"
+  },
+  "status": "lunch",
+  "name": "Окрошка классическая на кефире с колбасой яйцом и огурцами",
+  "pic": "https://static.1000.menu/img/content-v2/98/57/9744/okroshka-na-mineralke_1626754675_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/9744-okroshka-na-mineralke",
+  "ingredient": "Кефир,Вареная колбаса,Картошка,Куриные яйца,Сметана,Капуста квашеная,Огурцы,Зелёный лук,Укроп,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92034c"
+  },
+  "status": "lunch",
+  "name": "Холодный борщ с маринованной свеклой",
+  "pic": "https://static.1000.menu/img/content-v2/db/5b/13306/xolodnyi-borsch-s-marinovannoi-svekloi_1651952027_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/13306-xolodnyi-borshch-iz-marinovannoi-svekly-s-kolbasoi",
+  "ingredient": "Свекла,Картошка,Куриные яйца,Огурцы,Редис,Зелень,Сметана,Вода,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92034b"
+  },
+  "status": "lunch",
+  "name": "Горячий борщ из маринованной свеклы",
+  "pic": "https://static.1000.menu/img/content-v2/41/3c/39197/goryachii-borsch-iz-marinovannoi-svekly_1627160936_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/39197-goryachii-borsch-iz-marinovannoi-svekly",
+  "ingredient": "Говядина,Вода,Свекла,Капуста белокочанная,Морковь,Лук,Помидоры,Сахар,Уксус,Растительное масло,Лавровый лист,Душистый перец,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92034d"
+  },
+  "status": "lunch",
+  "name": "Суп пюре из кабачков",
+  "pic": "https://static.1000.menu/img/content/28450/sup-pure-iz-kabachkov_1552086223_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/28450-sup-pure-iz-kabachkov",
+  "ingredient": "Куриный бульон,Кабачки,Морковь,Сельдерей,Помидоры,Чеснок,Сливочное масло,Тмин,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92034e"
+  },
+  "status": "lunch",
+  "name": "Зеленый суп с щавелем яйцом и курицей",
+  "pic": "https://static.1000.menu/img/content-v2/ca/e2/13606/zelenyi-sup-s-schavelem-yaicom-i-kuricei_1619432234_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/13606-zelenyi-sup-s-schavelem-yaicom-i-kuricei",
+  "ingredient": "Щавель,Куриные бедрышки,Вода,Пшено,Картошка,Лук,Яйца,Лавровый лист,Душистый перец,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92034f"
+  },
+  "status": "lunch",
+  "name": "Окрошка на воде с уксусом и майонезом",
+  "pic": "https://static.1000.menu/img/content-v2/52/b9/9723/okroshka-na-vode-s-uksusom-i-maionezom_1652964755_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/9723-okroshka-na-vode-s-uksusom-i-maionezom",
+  "ingredient": "Вареная колбаса,Огурцы,Картошка,Яйца,Зелёный лук,Укроп,Майонез,Яблочный уксус,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920350"
+  },
+  "status": "lunch",
+  "name": "Шурпа из свинины в домашних условиях",
+  "pic": "https://static.1000.menu/img/content/19898/shurpa-iz-svininy-v-domashnix-usloviyax_1552079429_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/19898-shurpa-iz-svininy-v-domashnix-usloviyax",
+  "ingredient": "Свинина,Картошка,Лук репчатый,Морковь,Болгарский перец,Помидоры,Чеснок,Растительное масло,Перец чили,Петрушка,Укроп,Зира,Поваренная соль,Перец черный молотый",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920351"
+  },
+  "status": "lunch",
+  "name": "Окрошка на минералке",
+  "pic": "https://static.1000.menu/img/content-v2/66/23/39148/okroshka-na-mineralke_1569069418_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/39148-okroshka-na-mineralke",
+  "ingredient": "Яйца,Огурцы,Зелень,Колбаса и колбасные изделия,Картошка,Сметана,Майонез,Горчица готовая,Минеральная вода,Соль,Уксус",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920352"
+  },
+  "status": "lunch",
+  "name": "Щавелевый суп с яйцом классический",
+  "pic": "https://static.1000.menu/img/content-v2/21/63/930/shchavelevyi-sup-s-yaicom-klassicheskii_1588761557_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/930-shchavelevji-sup",
+  "ingredient": "Щавель,Картошка,Курица,Морковь,Лук,Яйца,Растительное масло,Соль,Зелень,Вода",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920353"
+  },
+  "status": "lunch",
+  "name": "Классический кулеш из пшена с салом в домашних условиях",
+  "pic": "https://static.1000.menu/img/content/29375/kulesh-v-domashnix-usloviyax_1552086972_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/29375-kulesh-v-domashnix-usloviyax",
+  "ingredient": "Пшено,Вода,Морковь,Картошка,Лук,Сало,Соль,Перец,Петрушка",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920354"
+  },
+  "status": "lunch",
+  "name": "Суп солянка сборная мясная классическая на первое",
+  "pic": "https://static.1000.menu/img/content-v2/0a/58/5233/solyanka-sbornaya-myasnaya-klassicheskaya_1624350785_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/5233-solyanka-klassicheskaya-s-myasnym-naborom-i-maslinami-i-ogurcami",
+  "ingredient": "Ветчина,Копченая колбаса,Оливки,Корнишоны,Каперсы",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920355"
+  },
+  "status": "lunch",
+  "name": "Суп из крапивы с яйцом картофелем и курицей",
+  "pic": "https://static.1000.menu/img/content-v2/3a/cc/14072/sup-iz-krapivy-s-yaicom-kartofelem-i-kuricei_1652646076_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/14072-sup-iz-krapivy-s-yaicom-i-myasom",
+  "ingredient": "Куриные ножки,Крапива,Картошка,Лук,Морковь,Яйца,Укроп,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920356"
+  },
+  "status": "lunch",
+  "name": "Уха на костре в казане",
+  "pic": "https://static.1000.menu/img/content-v2/11/c7/49159/uxa-na-kostre-v-kazane_1595257137_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/49159-uxa-na-kostre-v-kazane",
+  "ingredient": "Рыба,Картошка,Морковь,Лук,Вода,Соль,Зелень,Водка",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920357"
+  },
+  "status": "lunch",
+  "name": "Зеленые щи с крапивой и щавелем с яйцом",
+  "pic": "https://static.1000.menu/img/content-v2/1f/6e/58363/zelenye-schi-s-krapivoi-i-schavelem-s-yaicom_1630610341_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/58363-zelenye-schi-s-krapivoi-i-schavelem-s-yaicom",
+  "ingredient": "Крапива,Щавель,Шпинат,Бульон,Соль,Лук репчатый,Картошка,Сливочное масло,Яйца",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920358"
+  },
+  "status": "lunch",
+  "name": "Борщ со свежей капустой свеклой и мясом",
+  "pic": "https://static.1000.menu/img/content-v2/41/60/32006/borsch-so-svejei-kapustoi-svekloi-i-myasom_1630059341_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/32006-borshch-so-svejei-kapustoi-i-svekloi",
+  "ingredient": "Свинина,Капуста,Картошка,Лук,Морковь,Помидоры,Свекла,Томатная паста,Вода,Лавровый лист,Соль,Специи сухие",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920359"
+  },
+  "status": "lunch",
+  "name": "Суп с картошкой и курицей",
+  "pic": "https://static.1000.menu/img/content-v2/dc/0b/62719/sup-s-kartoshkoi-i-kuricei_1644988467_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/62719-sup-s-kartoshkoi-i-kuricei",
+  "ingredient": "Курица,Картошка,Лук репчатый,Морковь,Болгарский перец,Вода,Растительное масло,Соль,Специи сухие",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92035a"
+  },
+  "status": "lunch",
+  "name": "Ботвинья классическая",
+  "pic": "https://static.1000.menu/img/content-v2/f6/87/49612/botvinya-klassicheskaya_1597238014_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/49612-botvinya-klassicheskaya",
+  "ingredient": "Свинина,Вода,Соль,Лук репчатый,Чеснок,Зелень,Квас,Бульон,Мясо,Свекольная ботва,Огурцы,Редис,Зеленый лук,Петрушка,Укроп,Соль,Горчица",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92035b"
+  },
+  "status": "lunch",
+  "name": "Щи с капустой с курицей классические",
+  "pic": "https://static.1000.menu/img/content-v2/42/16/38933/shchi-iz-svejei-kapusty-s-kuricei_1589709682_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/38933-shchi-iz-svejei-kapusty-s-kuricei",
+  "ingredient": "Вода,Курица,Капуста,Картошка,Лук,Морковь,Сливочное масло,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92035c"
+  },
+  "status": "lunch",
+  "name": "Холодник на кефире",
+  "pic": "https://static.1000.menu/img/content-v2/32/fa/25935/xolodnik-na-kefire_1623572589_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/25935-xolodnik-na-kefire",
+  "ingredient": "Свекла,Огурцы,Куриные яйца,Кефир,Сметана,Зелень,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92035d"
+  },
+  "status": "lunch",
+  "name": "Крапивный суп на первое",
+  "pic": "https://static.1000.menu/img/content-v2/cc/ae/28045/krapivnyi-sup_1625039240_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/28045-krapivnyi-sup",
+  "ingredient": "Крапива,Морковь,Картошка,Круглый рис,Соль,Вода,Зелень,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92035e"
+  },
+  "status": "lunch",
+  "name": "Холодный борщ с колбасой",
+  "pic": "https://static.1000.menu/img/content/14481/borshch-s-kolbasoi_1552074707_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/14481-borshch-s-kolbasoi",
+  "ingredient": "Картошка,Свекла,Вареная колбаса,Огурцы,Куриные яйца,Яблочный уксус,Укроп,Зелёный лук,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92035f"
+  },
+  "status": "lunch",
+  "name": "Холодный борщ из свеклы с колбасой",
+  "pic": "https://static.1000.menu/img/content/13046/xolodnyi-borshch_1552073520_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/13046-xolodnyi-borshch",
+  "ingredient": "Свекла,Вареная колбаса,Огурцы,Укроп,Петрушка,Яйца,Яблочный уксус,Соль,Перец черный молотый",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920361"
+  },
+  "status": "lunch",
+  "name": "Рыбный суп из форели на первое",
+  "pic": "https://static.1000.menu/img/content-v2/8e/1f/29271/rybnyi-sup-iz-foreli_1614243343_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/29271-rybnyi-sup-iz-foreli",
+  "ingredient": "Вода,Форель,Картошка,Лук,Морковь,Укроп,Пшено,Специи сухие,Душистый перец,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920360"
+  },
+  "status": "lunch",
+  "name": "Горячий свекольник классический с мясом",
+  "pic": "https://static.1000.menu/img/content-v2/7b/d6/13851/klassicheskii-goryachii-svekolnik-s-myasom_1629463934_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/13851-goryachii-svekolnik-klassicheskii-s-myasom",
+  "ingredient": "Свинина,Свекла,Морковь,Лук репчатый,Картошка,Болгарский перец,Томатный соус,Чеснок,Растительное масло,Коренья,Лавровый лист,Душистый перец,Лимонная кислота,Зелень,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920362"
+  },
+  "status": "lunch",
+  "name": "Суп харчо из свинины с рисом",
+  "pic": "https://static.1000.menu/img/content/26995/sup-xarcho-iz-svininy-s-risom_1552084987_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/26995-sup-xarcho-iz-svininy-s-risom",
+  "ingredient": "Свинина,Круглый рис,Помидоры,Лук репчатый,Томатная паста,Морковь,Вода,Грецкие орехи,Хмели-сунели,Чеснок,Подсолнечное масло,Соль,Кинза, кориандр",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920363"
+  },
+  "status": "lunch",
+  "name": "Литовский холодный борщ на кефире из свеклы\"",
+  "pic": "https://static.1000.menu/res/380/img/content/34164/litovskii-xolodnyi-borshch-na-kefire-iz-svekly_1555179117_2_max.jpg",
+  "href": "https://1000.menu/cooking/34164-litovskii-xolodnyi-borshch-na-kefire-iz-svekly",
+  "ingredient": "Свекла,Яйца,Огурцы,Кефир,Сметана,Укроп,Зелёный лук,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920364"
+  },
+  "status": "lunch",
+  "name": "Молочный суп с вермишелью на первое",
+  "pic": "https://static.1000.menu/img/content-v2/c2/b5/40520/molochnyi-sup-s-vermishelu_1607598998_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/40520-molochnyi-sup-s-vermishelu",
+  "ingredient": "Молоко,Вермишель,Соль,Сахар",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920365"
+  },
+  "status": "lunch",
+  "name": "Окрошка на сметане и воде",
+  "pic": "https://static.1000.menu/img/content-v2/45/c5/9609/okroshka-na-smetane-i-vode_1584947395_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/9609-okroshka-na-smetane-i-vode",
+  "ingredient": "Картошка,Огурцы,Редис,Яйца,Вареная колбаса,Зелёный лук,Укроп,Сметана,Вода,Соль,Лимонная кислота",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920366"
+  },
+  "status": "lunch",
+  "name": "Суп овощной на мясном бульоне на первое",
+  "pic": "https://static.1000.menu/img/content-v2/8e/e1/58132/sup-ovoschnoi-na-myasnom-bulone_1630658088_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/58132-sup-ovoschnoi-na-myasnom-bulone",
+  "ingredient": "Мясной бульон,Картошка,Брокколи,Фасоль стручковая зеленая,Помидоры,Морковь,Перец,Лук,Чеснок,Петрушка,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920367"
+  },
+  "status": "lunch",
+  "name": "Суп Харчо классический с рисом",
+  "pic": "https://static.1000.menu/img/content/22521/sup-xarcho-klassicheskii-s-risom_1552081485_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/22521-sup-xarcho-klassicheskii-s-risom",
+  "ingredient": "Вода,Говядина,Помидоры,Чеснок,Лук,Стебель сельдерея,Рис,Зелень,Душистый перец,Базилик,Паприка,Хмели-сунели,Перец чили,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920368"
+  },
+  "status": "lunch",
+  "name": "Буйабес суп Буябес",
+  "pic": "https://static.1000.menu/img/content-v2/e0/81/15920/buiabes-sup-buyabes_1594298025_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/15920-buiabes",
+  "ingredient": "Вода,Помидоры,Хек,Морской коктейль,Королевские креветки,Вино белое,Красная рыба,Лук репчатый,Стебель сельдерея,Чеснок,Лавровый лист,Растительное масло,Томатная паста,Сливочное масло,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec920369"
+  },
+  "status": "lunch",
+  "name": "Уха по-фински из форели со сливками",
+  "pic": "https://static.1000.menu/img/content-v2/58/23/15565/uxa-po-finski-iz-foreli-so-slivkami_1588166125_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/15565-uxa-po-finski-iz-foreli-so-slivkami",
+  "ingredient": "Овощной бульон,Форель,Картошка,Сливки,Лук,Морковь,Болгарский перец,Оливковое масло,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92036a"
+  },
+  "status": "lunch",
+  "name": "Борщ со свининой",
+  "pic": "https://static.1000.menu/img/content/31237/borshch-so-svininoi_1552319464_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/31237-borshch-so-svininoi",
+  "ingredient": "Картошка,Капуста,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292954928f3340dec92036b"
+  },
+  "status": "lunch",
+  "name": "Гороховый суп на мясном бульоне по-фински",
+  "pic": "https://static.1000.menu/img/content-v2/cb/77/1655/goroxovyi-sup-na-myasnom-bulone-po-finski_1576862049_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/1655-goroxovyi-sup-na-myasnom-bulone-po-finski",
+  "ingredient": "Вода,Горох,Свинина,Говядина,Поваренная соль,Лук репчатый,Картошка,Морковь,Пшеничная мука",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b69"
+  },
+  "status": "dinn",
+  "name": "Кабачки в кляре на сковороде с чесноком",
+  "pic": "https://static.1000.menu/img/content-v2/20/84/23053/kabachki-v-klyare-na-skovorode-s-chesnokom_1572717084_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/23053-kabachki-v-klyare-s-chesnokom",
+  "ingredient": "Кабачки,Куриные яйца,Сметана,Вода,Соль,Перец черный молотый,Чеснок,Пшеничная мука,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b68"
+  },
+  "status": "dinn",
+  "name": "Печень на сковороде",
+  "pic": "https://static.1000.menu/img/content/37702/pechen-na-skovorode_1565378924_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/37702-pechen-na-skovorode",
+  "ingredient": "Куриная печень,Лук репчатый,Морковь,Растительное масло,Соль,Перец черный молотый",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b6a"
+  },
+  "status": "dinn",
+  "name": "Шашлык из шампиньонов на мангале",
+  "pic": "https://static.1000.menu/img/content-v2/c3/22/9599/shashlyk-iz-shampinonov-na-mangale_1577559493_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/9599-shashlyk-iz-shampinonov-na-mangale",
+  "ingredient": "Шампиньоны,Помидоры черри,Цукини,Сало,Растительное масло,Соевый соус,Специи сухие",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b6b"
+  },
+  "status": "dinn",
+  "name": "Кабачковая икра с томатной пастой и луком на зиму",
+  "pic": "https://static.1000.menu/img/content-v2/48/43/27503/kabachkovaya-ikra-s-tomatnoi-pastoi-na-zimu_1627567184_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/27503-kabachkovaya-ikra-s-tomatnoi-pastoi-na-zimu",
+  "ingredient": "Кабачки,Морковь,Лук,Томатная паста,Уксус,Соль,Сахар,Перец черный молотый,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b6c"
+  },
+  "status": "dinn",
+  "name": "Рис на сковороде на второе",
+  "pic": "https://static.1000.menu/img/content-v2/22/45/39422/ris-na-skovorode_1569958648_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/39422-ris-na-skovorode",
+  "ingredient": "Рис,Вода,Лук,Растительное масло,Соль,Специи сухие",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b6e"
+  },
+  "status": "dinn",
+  "name": "Сочные котлеты из фарша классические на сковороде",
+  "pic": "https://static.1000.menu/img/content-v2/b8/15/27902/kotlety-iz-farsha-na-skovorode_1573240382_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/27902-kotlety-iz-farsha-klassicheskie-na-skovorode",
+  "ingredient": "Фарш мясной,Батон,Молоко,Лук,Панировочные сухари,Соль,Специи сухие,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b6d"
+  },
+  "status": "dinn",
+  "name": "Лодочки из кабачков в духовке с фаршем и грибами на второе",
+  "pic": "https://static.1000.menu/img/content-v2/b6/e5/29931/lodochki-iz-kabachkov-v-duxovke-s-farshem-i-gribami_1614242208_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/29931-lodochki-iz-kabachkov-v-duxovke-s-farshem-i-gribami",
+  "ingredient": "Цукини,Грибы,Фарш мясной,Лук,Твёрдый сыр,Соль,Перец,Огурцы",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b6f"
+  },
+  "status": "dinn",
+  "name": "Стейк рибай на сковороде",
+  "pic": "https://static.1000.menu/img/content-v2/63/69/17348/steik-ribai-na-skovorode_1602145151_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/17348-steik-ribai-na-skovorode",
+  "ingredient": "Говядина,Оливковое масло,Морская соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b70"
+  },
+  "status": "dinn",
+  "name": "Печень с луком на сковороде",
+  "pic": "https://static.1000.menu/img/content-v2/8b/00/63683/pechen-s-lukom-na-skovorode_1648195283_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/63683-pechen-s-lukom-na-skovorode",
+  "ingredient": "Печень говяжья,Лук репчатый,Мука,Растительное масло,Соль,Перец черный молотый",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b71"
+  },
+  "status": "dinn",
+  "name": "Жареная морковь с луком на сковороде",
+  "pic": "https://static.1000.menu/img/content-v2/68/bf/10711/jarenaya-morkov-s-lukom-na-skovorode_1575378757_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/10711-zharenaya-morkov-s-lukom",
+  "ingredient": "Морковь,Лук репчатый,Чеснок,Томатная паста,Растительное масло,Соль,Перец черный молотый",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b72"
+  },
+  "status": "dinn",
+  "name": "Лечо из кабачков на зиму",
+  "pic": "https://static.1000.menu/img/content-v2/43/a8/4268/lecho-iz-kabachkov-na-zimu_1580364303_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/4268-lecho-iz-kabachkov-na-zimu",
+  "ingredient": "Кабачки,Помидоры,Болгарский перец,Морковь,Лук,Чеснок,Растительное масло,Уксус,Соль,Сахар",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b73"
+  },
+  "status": "dinn",
+  "name": "Кабачки тушеные в сметане на второе",
+  "pic": "https://static.1000.menu/img/content-v2/da/79/3872/kabachki-tushenye-v-smetane_1618467059_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/3872-kabachki-tushenje-v-smetane",
+  "ingredient": "Кабачки,Сметана,Оливковое масло,Соль,Перец черный молотый,Чеснок",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b74"
+  },
+  "status": "dinn",
+  "name": "Ленивые голубцы с рисом капустой и фаршем в кастрюле",
+  "pic": "https://static.1000.menu/img/content/22379/lenivye-golubcy-s-risom-kapustoi-i-farshem_1552081361_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/22379-lenivye-golubcy-s-risom-kapustoi-i-farshem",
+  "ingredient": "Фарш мясной,Капуста белокочанная,Лук репчатый,Морковь,Рис,Куриные яйца,Пшеничная мука,Растительное масло,Поваренная соль,Специи сухие,Сметана,Томатный соус",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b75"
+  },
+  "status": "dinn",
+  "name": "Пышная творожная запеканка в духовке",
+  "pic": "https://static.1000.menu/img/content-v2/75/1b/50176/pyshnaya-tvorojnaya-zapekanka-v-duxovke_1602749301_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/50176-pyshnaya-tvorojnaya-zapekanka-v-duxovke",
+  "ingredient": "Творог,Сметана,Яйца,Сахар,Манка,Сода пищевая,Ванилин,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b76"
+  },
+  "status": "dinn",
+  "name": "Домашняя пицца в духовке с колбасой классическая",
+  "pic": "https://static.1000.menu/img/content-v2/63/46/809/domashnyaya-picca-v-duxovke-s-kolbasoi_1591348446_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/809-pitstsa-domashnyaya",
+  "ingredient": "Мука,Вода,Сухие дрожжи,Сахар,Соль,Растительное масло,Колбаса,Сыр,Лук,Помидоры,Маслины",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b77"
+  },
+  "status": "dinn",
+  "name": "Кабачковая икра с помидорами через мясорубку",
+  "pic": "https://static.1000.menu/img/content/38513/kabachkovaya-ikra-s-pomidorami-cherez-myasorubku_1567543699_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/38513-kabachkovaya-ikra-s-pomidorami-cherez-myasorubku",
+  "ingredient": "Кабачки,Морковь,Лук репчатый,Помидоры,Растительное масло,Томатная паста,Чеснок,Лавровый лист,Перец горошком,Сахар,Соль,Столовый уксус",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b78"
+  },
+  "status": "dinn",
+  "name": "Запеканка из кабачков с фаршем в духовке",
+  "pic": "https://static.1000.menu/img/content-v2/87/df/40368/zapekanka-iz-kabachkov-s-farshem-v-duxovke_1572806228_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/40368-zapekanka-iz-kabachkov-s-farshem-v-duxovke",
+  "ingredient": "Кабачки,Фарш индейки,Лук репчатый,Чеснок,Помидоры,Растительное масло,Куриные яйца,Сметана,Твёрдый сыр,Соль,Перец черный молотый,Зелень",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b79"
+  },
+  "status": "dinn",
+  "name": "Кабачки в духовке с фаршем и сыром на второе",
+  "pic": "https://static.1000.menu/img/content-v2/55/66/21994/kabachki-v-duxovke-s-farshem-i-syrom_1616133183_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/21994-kabachki-v-duxovke-s-farshem-s-syrom",
+  "ingredient": "Кабачки,Говяжий фарш,Свиной фарш,Помидоры,Сметана,Лук,Чеснок,Твёрдый сыр,Соль,Специи сухие",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b7a"
+  },
+  "status": "dinn",
+  "name": "Пицца из лаваша в духовке",
+  "pic": "https://static.1000.menu/img/content-v2/2a/8a/13431/picca-iz-lavasha-v-duxovke_1588002461_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/13431-ekonom-picca-na-lavashe",
+  "ingredient": "Лаваш тонкий,Твёрдый сыр,Колбаса полукопченая,Болгарский перец,Лук репчатый,Томатный соус",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b7b"
+  },
+  "status": "dinn",
+  "name": "Овощи гриль на мангале",
+  "pic": "https://static.1000.menu/img/content-v2/5c/e4/40203/ovoshchi-gril-na-mangale_1572364756_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/40203-ovoshchi-gril-na-mangale",
+  "ingredient": "Помидоры черри,Болгарский перец,Баклажаны,Цукини,Лук репчатый,Шампиньоны,Чеснок,Орегано сухой,Мускатный орех,Перец красный молотый,Перец черный молотый,Майоран сухой,Соевый соус,Растительное масло,Чеснок,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b7c"
+  },
+  "status": "dinn",
+  "name": "Баклажаны запеченные с сыром и чесноком в духовке",
+  "pic": "https://static.1000.menu/img/content-v2/d1/36/3361/baklajany-zapechennye-s-syrom-i-chesnokom-v-duxovke_1634290343_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/3361-baklajany-zapechennye-s-syrom-i-chesnokom-v-duxovke",
+  "ingredient": "Баклажаны,Сыр,Яйца,Чеснок,Сливочное масло,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b7d"
+  },
+  "status": "dinn",
+  "name": "Паста карбонара с беконом и сливками классическая",
+  "pic": "https://static.1000.menu/img/content-v2/3d/92/13047/pasta-karbonara-klassicheskaya_1552083506_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/13047-pasta-karbonara-s-bekonom-i-slivkami",
+  "ingredient": "Спагетти,Соль,Вода,Оливковое масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b7e"
+  },
+  "status": "dinn",
+  "name": "Кабачки с яйцом на сковороде",
+  "pic": "https://static.1000.menu/img/content-v2/9d/13/37772/kabachki-s-yaicom-na-skovorode_1642134045_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/37772-kabachki-s-yaicom-na-skovorode",
+  "ingredient": "Кабачки,Куриные яйца,Пшеничная мука,Растительное масло,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b80"
+  },
+  "status": "dinn",
+  "name": "Лаваш с яйцом на сковороде",
+  "pic": "https://static.1000.menu/img/content-v2/52/f0/4235/lavash-s-yaicom-na-skovorode_1574234887_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/4235-lavash-jarenyi-s-yaicom",
+  "ingredient": "Лаваш тонкий,Яйца,Сливочное масло,Вода,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b7f"
+  },
+  "status": "dinn",
+  "name": "Кабачковая пицца из кабачков в духовке",
+  "pic": "https://static.1000.menu/img/content-v2/70/46/21787/kabachkovaya-picca-iz-kabachkov-v-duxovke-na-zamenu_1608922577_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/21787-kabachkovaya-picca-v-duxovke",
+  "ingredient": "Кабачки,Яйца,Соль,Манка,Пшеничная мука,Разрыхлитель,Колбаса и колбасные изделия,Твёрдый сыр,Помидоры,Базилик,Растительное масло,Петрушка",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b81"
+  },
+  "status": "dinn",
+  "name": "Баклажаны тушеные с овощами на сковороде",
+  "pic": "https://static.1000.menu/img/content-v2/67/16/3363/baklajany-tushenye-s-ovoshchami-bystro-i-prosto_1649930720_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/3363-baklajany-tushenye-s-ovoshchami-bystro-i-prosto",
+  "ingredient": "Баклажаны,Кабачки,Помидоры,Болгарский перец,Оливковое масло,Соль,Итальянские травы,Вода",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b82"
+  },
+  "status": "dinn",
+  "name": "Пышный омлет на сковороде",
+  "pic": "https://static.1000.menu/img/content-v2/e5/e1/14382/peredelka-pyshnyi-omlet-na-skovorode_1594834495_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/14382-omlet-s-molokom-na-skovorode",
+  "ingredient": "Молоко,Яйца,Соль,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b83"
+  },
+  "status": "dinn",
+  "name": "Жареное мясо на сковороде",
+  "pic": "https://static.1000.menu/img/content/37536/jarenoe-myaso-na-skovorode_1565094643_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/37536-jarenoe-myaso-na-skovorode",
+  "ingredient": "Свинина,Лук репчатый,Подсолнечное масло,Перец красный молотый,Поваренная соль,Перец черный молотый",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b84"
+  },
+  "status": "dinn",
+  "name": "Творожная запеканка как в детском саду",
+  "pic": "https://static.1000.menu/img/content-v2/73/96/4584/tvorojnaya-zapekanka-kak-v-detskom-sadu_1642017779_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/4584-tvorojnaya-zapekanka-kak-v-detskom-sadu",
+  "ingredient": "Творог,Манка,Сахар,Сливочное масло,Молоко,Яйца,Ванилин",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b85"
+  },
+  "status": "dinn",
+  "name": "Скумбрия на мангале на решетке на углях в фольге запеченная",
+  "pic": "https://static.1000.menu/img/content-v2/1c/ba/18646/skumbriya-na-mangale-na-reshetke-zapechennaya_1586556582_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/18646-skumbriya-na-kostre-na-reshetke",
+  "ingredient": "Скумбрия,Лимоны,Соль,Растительное масло,Перец острый молотый",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b87"
+  },
+  "status": "dinn",
+  "name": "Кабачки в духовке с фаршем и помидорами на второе",
+  "pic": "https://static.1000.menu/img/content-v2/7b/e3/29258/kabachki-v-duxovke-s-farshem-i-pomidorami_1615542472_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/29258-kabachki-s-farshem-v-duxovke-s-pomidorami",
+  "ingredient": "Молодые кабачки,Фарш мясной,Помидоры,Лук,Твёрдый сыр,Сливочное масло,Соль,Специи сухие",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b88"
+  },
+  "status": "dinn",
+  "name": "Кабачки с фаршем на сковороде",
+  "pic": "https://static.1000.menu/img/content-v2/91/8a/36045/kabachki-s-farshem-na-skovorode_1619170128_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/36045-kabachki-s-farshem-na-skovorode",
+  "ingredient": "Кабачки,Фарш мясной,Лук,Мука,Соль,Перец,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b86"
+  },
+  "status": "dinn",
+  "name": "Мясо по французски с сыром и помидорами в духовке",
+  "pic": "https://static.1000.menu/img/content-v2/05/e9/18655/myaso-po-francuzski-s-syrom-i-pomidorami-v-duxovke_1601546342_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/18655-myaso-po-francuzski-s-syrom-i-pomidorami-v-duxovke",
+  "ingredient": "Свинина,Лук репчатый,Помидоры,Твёрдый сыр,Майонез,Соль,Перец черный молотый,Зелень,Паприка,Оливковое масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b89"
+  },
+  "status": "dinn",
+  "name": "Кабачки с фаршем и сыром в духовке на второе",
+  "pic": "https://static.1000.menu/img/content-v2/a0/86/3865/farshirovannye-kabachki-s-farshem-i-syrom-zapechennye-v-duxovke_1617340215_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/3865-kabachki-s-myasnym-farshem-i-syrom-v-duxovke",
+  "ingredient": "Фарш мясной,Твёрдый сыр,Кабачки,Помидоры,Чеснок,Сливочное масло,Зира,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b8a"
+  },
+  "status": "dinn",
+  "name": "Овощное рагу с кабачками картошкой и капустой",
+  "pic": "https://static.1000.menu/img/content/23485/ovoshchnoe-ragu-s-kabachkami-kartoshkoi-i-kapustoi_1552082310_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/23485-ovoshchnoe-ragu-s-kabachkami-kartoshkoi-i-kapustoi",
+  "ingredient": "Вода,Картошка,Помидоры,Кабачки,Морковь,Чеснок,Капуста белокочанная,Томатная паста,Подсолнечное масло,Петрушка,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b8c"
+  },
+  "status": "dinn",
+  "name": "Запеканка из кабачков и помидоров с сыром в духовке",
+  "pic": "https://static.1000.menu/img/content-v2/e3/50/17482/zapekanka-iz-kabachkov-i-pomidorov-s-syrom-v-duxovke_1588699806_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/17482-zapekanka-iz-kabachkov-i-pomidorov-s-syrom-v-duxovke",
+  "ingredient": "Кабачки,Помидоры,Яйца,Соль,Твёрдый сыр,Пшеничная мука,Растительное масло",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b8b"
+  },
+  "status": "dinn",
+  "name": "Овощное рагу с баклажанами и кабачками на второе",
+  "pic": "https://static.1000.menu/img/content-v2/0c/8e/42420/ovoshchnoe-ragu-s-baklajanami-i-kabachkami_1614316788_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/42420-ovoshchnoe-ragu-s-baklajanami-i-kabachkami",
+  "ingredient": "Баклажаны,Кабачки,Болгарский перец,Помидоры,Морковь,Лук,Мука,Растительное масло,Сахар,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b8d"
+  },
+  "status": "dinn",
+  "name": "Баклажаны на сковороде с чесноком и помидорами быстро",
+  "pic": "https://static.1000.menu/img/content-v2/b3/59/39865/baklajany-na-skovorode-s-chesnokom_1601406285_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/39865-baklajany-na-skovorode-s-chesnokom",
+  "ingredient": "Баклажаны,Помидоры,Оливковое масло,Базилик,Чеснок,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b8f"
+  },
+  "status": "dinn",
+  "name": "Овощи в казане тушеные на плите",
+  "pic": "https://static.1000.menu/img/content-v2/b3/02/17472/ovoshchi-v-kazane-tushenye-na-plite_1592916083_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/17472-ovoshchi-v-kazane",
+  "ingredient": "Кабачки,Картошка,Помидоры,Морковь,Растительное масло,Болгарский перец,Баклажаны,Чеснок,Петрушка,Паприка,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b8e"
+  },
+  "status": "dinn",
+  "name": "Куриные котлеты на сковороде на второе",
+  "pic": "https://static.1000.menu/img/content-v2/11/ec/40812/kurinye-kotlety-na-skovorode_1607709391_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/40812-kurinye-kotlety-na-skovorode",
+  "ingredient": "Куриное филе,Лук,Яйца,Соль,Специи сухие,Растительное масло,Панировочные сухари",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b90"
+  },
+  "status": "dinn",
+  "name": "Мясо в духовке с помидором сыром грибами",
+  "pic": "https://static.1000.menu/img/content-v2/af/d2/19333/myaso-v-duxovke-s-pomidorom-syrom-gribami-recept_1602064140_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/19333-myaso-v-duxovke-s-pomidorom-syrom-i-gribami",
+  "ingredient": "Свинина,Шампиньоны,Лук,Мягкий сыр,Помидоры,Специи сухие,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b91"
+  },
+  "status": "dinn",
+  "name": "Кабачки с помидорами на сковороде на второе",
+  "pic": "https://static.1000.menu/img/content-v2/c2/b3/36478/kabachki-s-pomidorami-na-skovorode_1618824927_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/36478-kabachki-s-pomidorami-na-skovorode",
+  "ingredient": "Кабачки,Помидоры,Чеснок,Укроп,Вода,Растительное масло,Смесь трав,Перец черный молотый,Соль",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b92"
+  },
+  "status": "dinn",
+  "name": "Курица с сыром в духовке на второе",
+  "pic": "https://static.1000.menu/img/content-v2/bb/71/16116/kurica-s-syrom-v-duxovke_1587653078_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/16116-kurica-s-syrom-v-duxovke",
+  "ingredient": "Куриное филе,Сметана,Твёрдый сыр,Соль,Чеснок",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b93"
+  },
+  "status": "dinn",
+  "name": "Куриная печень на сковороде жареная с луком",
+  "pic": "https://static.1000.menu/img/content-v2/6d/d6/39956/kurinaya-pechen-s-lukom-na-skovorode-jarenaya_1645249876_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/39956-kurinaya-pechen-s-lukom-na-skovorode",
+  "ingredient": "Куриная печень,Лук репчатый,Растительное масло,Соль,Перец черный молотый",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6292a358c2a81fd857199b94"
+  },
+  "status": "dinn",
+  "name": "Свинина в духовке с сыром и помидорами",
+  "pic": "https://static.1000.menu/img/content-v2/36/03/62796/svinina-v-duxovke-s-syrom-i-pomidorami_1645247871_prev_hor.jpg",
+  "href": "https://1000.menu/cooking/62796-svinina-v-duxovke-s-syrom-i-pomidorami",
+  "ingredient": "Свинина,Твёрдый сыр,Помидоры,Сметана,Чеснок,Петрушка,Растительное масло,Соль,Специи сухие",
+  "__v": 0
+}]

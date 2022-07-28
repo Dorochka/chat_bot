@@ -1,0 +1,31 @@
+{
+  "name": "dbpars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon bot.js",
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "14.18.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.1.7",
+    "nodemon": "^2.0.15",
+    "puppeteer": "^14.1.1",
+    "telegraf": "^4.4.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dorochka/dipbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dorochka/dipbot/issues"
+  },
+  "homepage": "https://github.com/Dorochka/dipbot#readme",
+  "description": ""
+}
